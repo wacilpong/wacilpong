@@ -1,10 +1,11 @@
 ### I am Roomy
 
 📌 🌟 ❤️
+- NgRx
 - Rxjs, Marble testing
 - Typescript
-- Angular ivy
-- React
+- Angular
+- React hook
 - 비트겐슈타인 (Ludwig Josef Johann Wittgenstein)
 
 <br />
