@@ -1,5 +1,6 @@
 ### I am Roomy
 
+
 📌 🌟 ❤️
 - NgRx
 - Rxjs, Marble testing
@@ -7,6 +8,9 @@
 - Angular
 - React hook
 - 비트겐슈타인 (Ludwig Josef Johann Wittgenstein)
+- TMI
+
+
 
 <br />
 
