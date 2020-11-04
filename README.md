@@ -2,15 +2,14 @@
 
 
 📌 🌟 ❤️
+- 개발 TMI
 - NgRx
 - Rxjs, Marble testing
 - Typescript
 - Angular
 - React hook
+- Nest
 - 비트겐슈타인 (Ludwig Josef Johann Wittgenstein)
-- TMI
-
-
 
 <br />
 
