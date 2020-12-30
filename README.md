@@ -1,15 +1,15 @@
 ### I am Roomy
 
 
-📌 🌟 ❤️
+📌 관심 순위 📌
 - 개발 TMI
-- NgRx
-- Rxjs, Marble testing
+- Rxjs
 - Typescript
+- NgRx
 - Angular
 - React hook
 - Nest
-- 비트겐슈타인 (Ludwig Josef Johann Wittgenstein)
+- Algorithm
 
 <br />
 
