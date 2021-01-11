@@ -13,8 +13,3 @@
 - Angular
 - React hook
 - Algorithm
-
-<br />
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wacilpong&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
