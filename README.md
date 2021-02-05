@@ -7,8 +7,9 @@
 
 📌 관심 순위 📌
 - 개발 TMI
-- Rxjs
 - Typescript
+- Rxjs
+- Svelte
 - NgRx
 - Angular
 - React hook
