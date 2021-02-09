@@ -6,10 +6,10 @@
 ---
 
 📌 관심 순위 📌
-- 개발 TMI
 - Typescript
 - Rxjs
-- Svelte
+- Svelte, Sapper
+- 개발 TMI
 - NgRx
 - Angular
 - React hook
