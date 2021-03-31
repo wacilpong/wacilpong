@@ -6,11 +6,12 @@
 ---
 
 📌 관심 순위 📌
-- Typescript
+👑 Javascript
 - Rxjs
-- Svelte, Sapper
-- 개발 TMI
+- FRP (functional reactive programming)
+- Typescript
 - NgRx
 - Angular
 - React hook
 - Algorithm
+- Svelte, Sapper
