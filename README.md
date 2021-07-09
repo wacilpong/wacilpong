@@ -8,10 +8,9 @@
 📌 관심 순위 📌
 - 👑 Javascript
 - Rxjs
-- FRP (functional reactive programming)
 - Typescript
+- FRP (functional reactive programming)
 - NgRx
 - Angular
 - React hook
 - Algorithm
-- Svelte, Sapper
