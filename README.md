@@ -6,9 +6,9 @@
 ---
 
 📌 관심 순위 📌
-- 👑 Javascript
+- 👑 Typescript
+- Javascript
 - Rxjs
-- Typescript
 - FRP (functional reactive programming)
 - NgRx
 - Angular
