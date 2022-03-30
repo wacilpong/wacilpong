@@ -8,6 +8,7 @@
 📌 관심 순위 📌
 - 👑 Typescript
 - Javascript
+- Rust
 - Rxjs
 - FRP (functional reactive programming)
 - NgRx
