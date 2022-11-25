@@ -6,12 +6,13 @@
 ---
 
 📌 관심 순위 📌
-- 👑 Typescript
+- 👑 Docker/Kubernetes
+- Typescript
 - Javascript
-- Rust
 - Rxjs
 - FRP (functional reactive programming)
 - NgRx
 - Angular
 - React hook
 - Algorithm
+- Rust
